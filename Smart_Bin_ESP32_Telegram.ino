@@ -4,8 +4,8 @@
 #include <ESP32Servo.h> // 🔥 Added Servo Library
 
 // ===== WiFi =====
-const char* ssid = "SmartBIN";
-const char* password = "12345678";
+const char* ssid = "YOUR_WIFI_NAME";
+const char* password = "YOUR_WIFI_PASSWORD";
 
 // ===== Telegram =====
 #define BOT_TOKEN "***********"
