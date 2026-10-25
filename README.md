@@ -22,7 +22,7 @@ It uses an ESP32 microcontroller and a Telegram Bot for remote control over Wi-F
 - Servo-controlled lid
 
 ## Circuit Diagram
-![Smart Bin Circuit Diagram](circuit-diagram.png)
+![Smart Bin Circuit Diagram](Circuit diagram.png)
 
 ## Project Prototype
 ![Smart Bin Prototype](smart-bin-prototype.jpg)
